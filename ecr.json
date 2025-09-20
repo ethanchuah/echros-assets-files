@@ -1,0 +1,11 @@
+{
+  "name": "Echros",
+  "symbol": "ECR",
+  "description": "Echros (ECR) is the native utility token of the Echros ecosystem on Solana with 6 decimals and a fixed supply of 311,000,000. It powers access, rewards and NFT integrations across education, community and creator-focused experiences.",
+  "image": "https://raw.githubusercontent.com/ethanchuah/echros-assets-files/main/Echros-Logo.png",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://raw.githubusercontent.com/ethanchuah/echros-assets-files/main/Echros-Logo.png", "type": "image/png" }]
+  }
+}
